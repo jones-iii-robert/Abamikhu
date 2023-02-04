@@ -24,13 +24,6 @@ THis one
 
 [![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Outlook&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
 
-Next test
-[![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
-
-LinkedIn
-[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
-
-
 ![Outlook Badge](https://user-images.githubusercontent.com/89417860/216736180-cad73627-3fd8-41a2-9129-8fdb18ab56cb.png)
 
 
