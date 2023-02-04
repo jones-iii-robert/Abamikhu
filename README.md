@@ -14,11 +14,9 @@
 - :tada: Fun facts: My favorite color combos are blue/white and red/white.  I love anything relating to health, healthy eating and living. I love the outdoors and hiking 🥾 and campling 🏕️    
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<www.linkedin.com/in/robert-iii-jones/>)](<www.linkedin.com/in/robert-iii-jones>)
+[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/robert-iii-jones/>)](<https://www.linkedin.com/in/robert-iii-jones>)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
-
-[![Medium Badge](https://img.shields.io/badge/Robert%20Jones-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
+[![Medium Badge](https://img.shields.io/badge/Robert%20Jones-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@jones.iii.robert.it.trainings>)](<https://medium.com/@jones.iii.robert.it.trainings>)
 
 [![Gmail Badge](https://img.shields.io/badge/-jones.iii.robert@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
 
