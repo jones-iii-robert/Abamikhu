@@ -14,7 +14,7 @@
 - :tada: Fun facts: My favorite color combos are blue/white and red/white.  I love anything relating to health, healthy eating and living. I love the outdoors and hiking 🥾 and campling 🏕️    
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Parham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<[https://www.linkedin.com/in/kinseyparham](https://www.linkedin.com/in/robert-iii-jones/)](<https://www.linkedin.com/in/robert-iii-jones>)
+[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
 
 [![Medium Badge](https://img.shields.io/badge/Kinsey%20Parham-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
 
