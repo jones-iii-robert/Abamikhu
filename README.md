@@ -18,7 +18,7 @@
 
 [![Medium Badge](https://img.shields.io/badge/Robert%20Jones-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@jones.iii.robert.it.trainings>)](<https://medium.com/@jones.iii.robert.it.trainings>)
 
-[![Gmail Badge](https://img.shields.io/badge/-jones.iii.robert@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
+[![Gmail Badge](https://img.shields.io/badge/-Robert%20Jones-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
 
 
 ## ⚡ Technologies:
