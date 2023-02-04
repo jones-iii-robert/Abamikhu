@@ -20,12 +20,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-jones.iii.robert@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
 
-THis one
-
-[![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Outlook&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
-
-![Outlook Badge](https://user-images.githubusercontent.com/89417860/216736180-cad73627-3fd8-41a2-9129-8fdb18ab56cb.png)
-
 
 ## ⚡ Technologies:
 
