@@ -27,6 +27,7 @@ THis one
 Next test
 [![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
 
+LinkedIn
 [![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
 
 
