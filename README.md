@@ -1,11 +1,9 @@
 
-![MediumBanner](https://user-images.githubusercontent.com/100802530/178038667-17c0ead2-1934-4360-a455-5316fa896527.jpg)
-
-
 ### Hey.  👋 My Name is Robert Jones - it's nice to meet you!
 <!--🔭 I’m currently working on-->
 
 - 👀 I’m a DevOps Engineer
+- 🤓 I'm interested in learning Machine Learning
 - :books: I’m currently learning K8s, Terraform, Docker & Python 
 - :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps!
 - 💬 Ask me about my plants and Traditiona Chinese Medicne! 
