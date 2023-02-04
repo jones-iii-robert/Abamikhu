@@ -1,5 +1,5 @@
 
-#![MediumBanner](https://user-images.githubusercontent.com/100802530/178038667-17c0ead2-1934-4360-a455-5316fa896527.jpg)
+![MediumBanner](https://user-images.githubusercontent.com/100802530/178038667-17c0ead2-1934-4360-a455-5316fa896527.jpg)
 
 
 ### Hey.  👋 My Name is Robert Jones - it's nice to meet you!
@@ -14,11 +14,26 @@
 - :tada: Fun facts: My favorite color combos are blue/white and red/white.  I love anything relating to health, healthy eating and living. I love the outdoors and hiking 🥾 and campling 🏕️    
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
+[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<www.linkedin.com/in/robert-iii-jones/>)](<www.linkedin.com/in/robert-iii-jones>)
+
 [![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
 
-[![Medium Badge](https://img.shields.io/badge/Kinsey%20Parham-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
+[![Medium Badge](https://img.shields.io/badge/Robert%20Jones-12100E?style=flat-square&logo=medium&logoColor=white&link=<https://medium.com/@kinseyparham>)](<https://medium.com/@kinseyparham>)
 
-[![Gmail Badge](https://img.shields.io/badge/-KinseyParham@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<KinseyParham@gmail.com>)](mailto:<KinseyParham@gmail.com>)
+[![Gmail Badge](https://img.shields.io/badge/-jones.iii.robert@outlook.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
+
+THis one
+
+[![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Outlook&logo=Gmail&logoColor=white&link=mailto:<jones.iii.robert@outlook.com>)](mailto:<jones.iii.robert@outlook.com>)
+
+Next test
+[![Outlook Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Robert%20Jones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/kinseyparham/>)
+
+
+![Outlook Badge](https://user-images.githubusercontent.com/89417860/216736180-cad73627-3fd8-41a2-9129-8fdb18ab56cb.png)
+
 
 ## ⚡ Technologies:
 
@@ -31,9 +46,9 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=KinzP&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KinzP&hide=TeX&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Abamikhu&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abamikhu&hide=TeX&layout=compact)
 
 
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=<KinzP>%2F<KinzP>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<KinzP>%2F<KinzP>)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<Abamikhu>%2F<Abamikhu>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<Abamikhu>%2F<Abamikhu>)
